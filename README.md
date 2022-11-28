@@ -17,7 +17,8 @@ The following changes were made:
 4. Heading attributes are in sequence.
 5 Descrpitve feature has been added to title elements
 
-Website URL:https://khembajeh.github.io/horiseon-code-refactor/
+Website URL:https://khembajeh.github.io/horiseon-code-refactor
+
 Repository URL:https://github.com/khembajeh/horiseon-code-refactor
 
 ## Screen shot
